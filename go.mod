@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/bze-alphateam/bze v0.0.0-20240121211106-f6a32cf17559
 	github.com/cosmos/cosmos-sdk v0.45.16
-	github.com/cosmos/ibc-go/v4 v4.5.1
+	github.com/cosmos/ibc-go/v4 v4.6.0
 	github.com/gogo/protobuf v1.3.3
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
